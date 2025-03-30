@@ -1,11 +1,11 @@
 title: Yantuo Zhang # your name (or website title) here
 logo: "/images/yantuo_photo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Senior Data Scientist, Experimentation @HelloFresh
   <br><br>
-  Second description 
+  Grad student @Columbia University
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/yantuo-zhang-marvinz0313/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
